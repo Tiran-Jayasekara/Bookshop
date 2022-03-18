@@ -101,7 +101,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 				<h3>Eagle Book Shop</h3>
 				<div class="details clearfix">
 					<div class="head">
-					<p>Name :<br>Email :<br>Number :<br>Address :</p>
 					</div>
 					<div class="deta">
 					<p><br>Tiran jayasekara<br>Tiran.jayasekara.999@gmail.com<br>0714055143<br>No 119 Udadumbara rode Kandy</p>

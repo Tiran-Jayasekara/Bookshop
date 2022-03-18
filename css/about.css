@@ -511,6 +511,9 @@ nav ul li a:hover {
 	text-align: left;
 
 }
+.deta  p {
+	text-align: center;
+}
 /*.delete {
 	width: 1000px;
 	background: red;

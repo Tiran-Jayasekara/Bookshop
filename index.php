@@ -6,21 +6,21 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-	<div class="wrapper">
-		<div class="top-bar clearfix">
+	<div class="fullpage">
+		<div class="top-bar1 clearfix">
 			<div class="top-bar-links">
 				<ul>
 					<li><a href="#">WELL COME</a></li>
 					<li><a href="#">HAVE A NICE DAY....</a></li>
 				</ul>
 			</div><!--top-bar-links-->
-				<div class="site-search">
+				<div class="site-search1">
 					<form method="get" action="index.html">
 						<input type="search" name="search-box" value="">
 						<button type="submit"></button>
 					</form>
-				</div><!--site_search-->			
-		</div><!--top-bar-->
+				</div><!--site_search1-->			
+		</div><!--top-bar1-->
 		<header class="clearfix">
 			<div class="logo">
 				<img src="img/bookshop1.png" alt="Book Shop">
@@ -111,7 +111,7 @@
 		</div><!--  footer -->
 
 
-	</div><!--wrapper>
+	</div><!--fullpage>
 
 </body>
 </html>
